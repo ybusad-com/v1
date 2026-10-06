@@ -1,0 +1,12 @@
+data: {"id":"chatcmpl-ec7675e1cc9b63b455c38ce6","object":"chat.completion.chunk","created":1791286863,"model":"具体模型ID","choices":[{"index":0,"delta":{"role":"assistant","content":"Hello! H"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-ec7675e1cc9b63b455c38ce6","object":"chat.completion.chunk","created":1791286863,"model":"具体模型ID","choices":[{"index":0,"delta":{"content":"ow can I"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-ec7675e1cc9b63b455c38ce6","object":"chat.completion.chunk","created":1791286863,"model":"具体模型ID","choices":[{"index":0,"delta":{"content":" help yo"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-ec7675e1cc9b63b455c38ce6","object":"chat.completion.chunk","created":1791286863,"model":"具体模型ID","choices":[{"index":0,"delta":{"content":"u today?"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-ec7675e1cc9b63b455c38ce6","object":"chat.completion.chunk","created":1791286863,"model":"具体模型ID","choices":[{"index":0,"delta":{},"finish_reason":"stop"}]}
+
+data: [DONE]
+
